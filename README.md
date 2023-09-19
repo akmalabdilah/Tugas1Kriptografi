@@ -38,10 +38,7 @@ Oke tanpa basa basi laki ini adalah score code dan gambaran hasilnya.
 
 
 <p>
-
-</p>
-
-<hr>Untuk yang sudah membuat tugas, ada beberapa perbaikan...
+Tugas Untuk yang sudah membuat tugas, ada beberapa perbaikan...
 
 
 
@@ -54,6 +51,9 @@ Oke tanpa basa basi laki ini adalah score code dan gambaran hasilnya.
 Yang sudah mengumpulkan silahkan direvisi...
 
 Yang belum, silahkan dikerjakan
+</p>
+
+<hr>
 
 ## Kriptografi Program Caesar Cipher Menggunakan PHP 
 
@@ -163,7 +163,7 @@ if (PHP_SAPI === 'cli') {
 
 <hr>
 
-## Kriptografi Program Caesar Cipher Menggunakan Tugas Menggunakan Python
+## Kriptografi Program Caesar Cipher Menggunakan Python
 
 <hr>
 
